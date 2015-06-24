@@ -220,17 +220,19 @@
        height="667.11475"
        x="135.07248"
        y="340.95096"
-       inkscape:export-xdpi="365"
-       inkscape:export-ydpi="365" />
+       inkscape:export-xdpi="577"
+       inkscape:export-ydpi="577"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png" />
     <text
-       inkscape:export-ydpi="365"
-       inkscape:export-xdpi="365"
+       inkscape:export-ydpi="577"
+       inkscape:export-xdpi="577"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.49222946px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#212e33;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="240.33058"
        y="417.31509"
        id="text3625"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png"><tspan
          sodipodi:role="line"
          x="240.33058"
          y="417.31509"
@@ -289,7 +291,10 @@
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="137.72208"
-       width="210.31308" />
+       width="210.31308"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png"
+       inkscape:export-xdpi="577"
+       inkscape:export-ydpi="577" />
     <text
        sodipodi:linespacing="125%"
        id="text4264"
@@ -297,8 +302,9 @@
        x="240.21317"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.89450836px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#212e33;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="365"
-       inkscape:export-ydpi="365"><tspan
+       inkscape:export-xdpi="577"
+       inkscape:export-ydpi="577"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png"><tspan
          id="tspan4284"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pompiere;-inkscape-font-specification:Pompiere;text-align:center;text-anchor:middle;fill:#212e33;fill-opacity:1"
          y="891.52576"
@@ -333,7 +339,8 @@
        id="g3446"
        transform="matrix(0.36427854,0,0,0.36427854,135.91091,863.88175)"
        inkscape:export-xdpi="577.4881"
-       inkscape:export-ydpi="577.4881">
+       inkscape:export-ydpi="577.4881"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png">
       <g
          transform="translate(-4239.3306,-2556.3267)"
          id="g4451">
@@ -450,13 +457,19 @@
        width="210.43811"
        height="4.6428571"
        x="135.06697"
-       y="853.93365" />
+       y="853.93365"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png"
+       inkscape:export-xdpi="577"
+       inkscape:export-ydpi="577" />
     <rect
        y="713.93365"
        x="135.06697"
        height="4.6428571"
        width="210.43811"
        id="rect4413"
-       style="opacity:1;fill:#b9b8c8;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#b9b8c8;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/ghitabizau/work/azsmr/concert-linz/semn-de-carte-linz-1-1.png"
+       inkscape:export-xdpi="577"
+       inkscape:export-ydpi="577" />
   </g>
 </svg>
